@@ -1,0 +1,28 @@
+{
+    "id": "DB2CE985",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1639955397863.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "id": "4bab231d8c2e4399ad1570f359108d2f",
+        "name": "dataframe_list_ungrouped",
+        "title": "dataframe_list_ungrouped",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 19421992440889395,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1639955397863,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,28 @@
+{
+    "id": "F8968A7C",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1640138934418.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "id": "d47381fbf08a48c681f769af61423ee6",
+        "name": "dataframe_list_ungrouped",
+        "title": "dataframe_list_ungrouped",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 31244186278232176,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1640138934418,
+    "read_only": false,
+    "read_only_alternatives": []
+}
